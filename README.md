@@ -21,12 +21,14 @@
 
 ### YML data
 
+![](screenshots/data.jpg)
+
 ```
 - name: '3drops'
-      logo: './images/agency/3drops.png'
-      location: '🇸🇪'
-      slogan: 'Digital Product Studio'
-      link: 'https://3dro.ps/'
+  logo: './images/agency/3drops.png'
+  location: '🇸🇪'
+  slogan: 'Digital Product Studio'
+  link: 'https://3dro.ps/'
 ```
 
 ### 说明：
